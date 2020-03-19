@@ -1,0 +1,127 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: 'Karla', sans-serif;
+  font-size: 1rem;
+  margin: 0;
+}
+
+h2 {
+  color: #2AB2AF;
+  display: inline-block;
+  margin: 40px 0 20px 40px;
+
+}
+
+h3 {
+  color: #FFFFFF;
+  margin: 40px 0 10px 40px;
+  display: inline-block;
+}
+
+.btn {
+  margin-left: 40px;
+  border-radius: 6px;
+  border: none;
+  height: 50px;
+  color: #FFFFFF;
+  font-family: sans-serif;
+  width: 240px;
+  font-size: 15px;
+  font-weight: 700;
+  background-color: #C0DF34;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  box-shadow: 2px 5px 10px hsl(179, 66%, 37%);
+}
+
+.header {
+  background-color: #FFFFFF;
+  width: 640px;
+  height: 220px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.h3_header {
+  color: #C0DF34;
+  display: inline-block;
+  margin: 0 0 0 40px;
+}
+
+.p_header {
+  color: #98A6BD;
+  display: inline-block;
+  line-height: 1.8;
+  margin: 17px 0 0 40px;
+}
+
+.p_full_access {
+  margin: 0 0 35px 40px;
+  color: #DBE8F0;
+}
+
+.p_sign_up {
+  display: inline-block;
+  color: #DBE8F0;
+  vertical-align: middle;
+  position: relative;
+  left: 10px;
+  bottom: 5px;
+  margin-bottom: 15px;
+}
+
+.p_why_us {
+  color: #DBE8F0;
+  display: inline-block;
+  margin-left: 40px;
+  line-height: 1.5;
+  font-size: smaller;
+}
+
+.parent_container {
+  margin: 100px auto;
+  position: relative;
+  width: 640px;
+  height: 480px;
+  background-color: #E5EFF5;
+  border-radius: 16px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 16px 20px 0 rgba(0, 0, 0, 0.09);
+}
+
+.price {
+  color: #FFFFFF;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 30px;
+  margin: 10px 0 0 40px;
+}
+
+.sign_up {
+  background-color: #2BB3B1;
+  position: absolute;
+  width: 320px;
+  height: 260px;
+  border-bottom-left-radius: 10px;
+}
+
+.why_us {
+  background-color: #4ABEBD;
+  width: 320px;
+  height: 260px;
+  position: absolute;
+  right: 0;
+  border-bottom-right-radius: 10px;
+}
